@@ -12,7 +12,7 @@
     width: 100%;
   }
   
-  .menu-title{
+  .title{
     text-align: center;
     margin-bottom: 30px;
   }
@@ -111,7 +111,7 @@
       width: 50%;
       float: left;
     }
-    .col-lg-tablet{
+    .col-md-4{
      width: 100%;
      float: left;
    }
